@@ -12,7 +12,7 @@ React wrapper for [Jodit](https://xdsoft.net/jodit/)
 npm install jodit-react --save
 ```
 
-## If not then Update editor version
+## If not, then Update editor version
 ```bash
 npm update jodit-react
 ```
